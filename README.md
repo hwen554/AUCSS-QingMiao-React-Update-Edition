@@ -6,7 +6,7 @@
 
 ### Libraries used
 - 🔭 React
-- 🔭 React-icons/fa
+- 🔭 MUI
 - 🔭 React-icons/lib
 
 ### Available Scripts
