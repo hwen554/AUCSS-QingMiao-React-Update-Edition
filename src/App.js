@@ -32,7 +32,7 @@ function App(){
       <Router>
         <Navbar>
     
-      </Router>
+      
     </>
   );
 export default App;
