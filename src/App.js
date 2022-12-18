@@ -26,6 +26,6 @@ function App() {
   );
 }
 
-function Ap
+function A
   
 export default App;
