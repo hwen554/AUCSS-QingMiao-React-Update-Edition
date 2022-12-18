@@ -31,6 +31,7 @@ function App(){
     <>
       <Router>
         <Navbar>
+    <
       </Router>
     </>
   );
