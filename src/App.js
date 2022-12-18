@@ -29,7 +29,7 @@ function App() {
 function App(){
   return (
     <>
-      <Route
+      <Rout
         
     
       
