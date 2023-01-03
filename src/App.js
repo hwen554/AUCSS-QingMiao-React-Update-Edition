@@ -21,7 +21,7 @@ function App() {
             <Route path='/sign-up' component={SignUp} />
             <Route path='/qingmiao' component={Qingmiao}/>
           </Switch>
-        
+        </Navbar>
       </Router>
     </>
   );
