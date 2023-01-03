@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <Router>
-        <Navbar />
+        <Navbar >
         <Switch>
           <Route path='/' exact component={Home} />
           <Route path='/services' component={Services} />
@@ -21,6 +21,7 @@ function App() {
           <Route path='/sign-up' component={SignUp} />
           <Route path='/qingmiao' component={Qingmiao}/>
         </Switch>
+        
       </Router>
     </>
   );
