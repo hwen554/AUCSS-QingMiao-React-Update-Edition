@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/78581470/152643257-db4e61fe-0bcf-4ce0-bcdc-53d879190cc7.png)
 
 
-### Libraries used
+### Libraries used。
 - 🔭 React
 - 🔭 MUI
 - 🔭 React-icons/lib
